@@ -41,7 +41,7 @@ Often times in crafting functions we find ourselves needing to reuse the same fu
 
 This sounds overthought and complicated but this concept is called recursion - the idea that we would use a function within the very definition of the function. 
 
-To read of some "real world examples" of recursion see this Stack Overflow answer here: https://stackoverflow.com/questions/105838/real-world-examples-of-recursion#:~:text=People%20often%20sort%20stacks%20of,like%20technique%2C%20which%20is%20recursive.
+To read of some "real world examples" of recursion see this Stack Overflow answer [here](https://stackoverflow.com/questions/105838/real-world-examples-of-recursion#:~:text=People%20often%20sort%20stacks%20of,like%20technique%2C%20which%20is%20recursive).
 
 **How could this challenge be solved recursively?**
 
