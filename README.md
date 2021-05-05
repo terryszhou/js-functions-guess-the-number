@@ -7,9 +7,8 @@
 
 ## Getting Started
 1. **Fork and clone** this repository
-2. Create a file in the `js` subdirectory for each solution name the same as the function specified 
-3. Write a function for each of the following prompts
-4. Test your output by running the file with `node`
+2. Create a javascript file in the `js` subdirectory for your code and link it up the provided `index.html`
+3. You can use a `console.log()` in your javascript file to make sure it is linked up correctly to the html. *press F12 in Chrome to open up the developer console*
 ___
 
 ## Using `alert` and `prompt`
@@ -20,7 +19,7 @@ Today we will be using `prompt`. `prompt` takes two arguments (the statement you
 
 Example use to get user's favorite vegetable:
 ```js
-var favVeg = prompt("What is your favorite vegetable?", "Brussel Sprouts")
+let favVeg = prompt("What is your favorite vegetable?", "Brussel Sprouts")
 
 console.log(`Oh, I see - your favorite vegetable is ${favVeg}.`)
 ```
