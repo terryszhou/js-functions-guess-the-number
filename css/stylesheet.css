@@ -1,0 +1,10 @@
+h1, p {
+    display:flex;
+    justify-content:center;
+    color:white;
+    font-family:'Courier New', Courier, monospace
+}
+
+body {
+    background:cadetblue;
+}
